@@ -6,12 +6,14 @@ import NavBar from "./components/NavBar/NavBar";
 import Header from "./components/Header/Header";
 import Body from "./components/Body/Body";
 import Footer from "./components/Footer/Footer";
+import Slider from "./components/Slider/Slider";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <NavBar />
     <Header />
+    <Slider />
     <Body />
     <Footer />
   </React.StrictMode>

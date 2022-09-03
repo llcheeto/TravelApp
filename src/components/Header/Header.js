@@ -1,11 +1,14 @@
 import React from "react";
 import Login from "./Login/Login";
+import "./header.css";
 
 export default function Header() {
   return (
-    <div>
-      Header
+    <>
       <Login />
-    </div>
+      <div id="header">
+        <h1 id="welcome--tag">Welcome To Your Next Getaway</h1>
+      </div>
+    </>
   );
 }
