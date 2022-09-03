@@ -3,8 +3,9 @@
   justify-content: center;
   align-items: center;
   padding: 150px;
-  margin: 50px;
+  margin: 70px;
   background-color: azure;
   height: 0;
-  width: 50%;
+  width: 40%;
+  border-radius: 10%;
 }
