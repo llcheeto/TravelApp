@@ -1,0 +1,9 @@
+#body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightslategrey;
+  height: 200vh;
+  margin-left: 60px;
+  margin-right: 60px;
+}

@@ -1,5 +1,6 @@
 import React from "react";
+import "./body.css";
 
 export default function Body() {
-  return <div>Body</div>;
+  return <div id="body">Body</div>;
 }

@@ -1,5 +1,6 @@
 import React from "react";
+import "./bookcard.css";
 
 export default function BookCard() {
-  return <div>BookCard</div>;
+  return <div id="bookcard">BookCard</div>;
 }
