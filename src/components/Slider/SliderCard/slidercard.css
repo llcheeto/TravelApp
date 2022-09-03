@@ -1,0 +1,11 @@
+#slider--card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+  margin: 70px;
+  background-color: azure;
+  height: 0;
+  width: 40%;
+  border-radius: 10%;
+}
