@@ -1,5 +1,10 @@
 import React from "react";
+import BookCard from "./BookCard/BookCard";
 
 export default function Footer() {
-  return <div>Footer</div>;
+  return (
+    <div>
+      <BookCard />
+    </div>
+  );
 }
